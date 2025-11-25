@@ -1,8 +1,3 @@
-Here is a clean, professional `README.md` formatted for GitHub. It covers installation, usage, and the specific troubleshooting tips we discovered (like the Python version requirement).
-
-You can create a file named `README.md` in your folder and paste this content inside.
-
------
 
 # 🖼️ AI Background Remover
 

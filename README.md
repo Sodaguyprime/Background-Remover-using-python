@@ -25,7 +25,7 @@ A powerful, easy-to-use Python script to remove image backgrounds automatically.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/bg-remover.git
+    git clone https://github.com/Sodaguyprime/Background-Remover-using-python.git
     cd bg-remover
     ```
 

@@ -1,0 +1,14 @@
+# Simple - auto naming
+python script.py -i photo.jpg
+
+# Batch with auto output folder
+python script.py -i ./photos -b
+
+# Use AI backend for best accuracy
+python script.py -i photo.jpg --backend rembg
+
+# Fast mode (transparent backend)
+python script.py -i photo.jpg -m fast
+
+# Try both methods (best of both worlds)
+python script.py -i photo.jpg --backend both
